@@ -1,4 +1,4 @@
-# 🐍 Jogo da Cobrinha (Snake Game)
+# 🐍 Jogo da Cobrinha (Snake-Byte)
 
 Este é um projeto simples de **Jogo da Cobrinha** desenvolvido em **Python**.  
 Peguei inspiração em alguns vídeos na internet e montei o jogo do meu jeito, adaptando o código e as ideias para praticar programação e aprender mais sobre desenvolvimento de jogos.
